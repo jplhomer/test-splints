@@ -15,5 +15,7 @@ class Foo
   callMeMaybe () {
     // Hey, I just met you
     // And this is crazy
+
+    // More updates
   }
 }
