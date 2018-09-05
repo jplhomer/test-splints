@@ -17,4 +17,8 @@ class Foo
   fire () {
     console.log('BOOM!')
   }
+
+  hey () {
+    // everybody
+  }
 }
